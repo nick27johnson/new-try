@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(158, 208, 234)
+}
+.img{
+    top: 75px;
+    border: 25px dimgray;
+}
+.common{
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lists{
+    top: 300px;
+
+}
+.footer{
+    z-index: 1;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+    text-align: center;
+    background-color: rgb(108, 108, 108);
+    position: fixed;
+}
+.header{
+    top: 0px;
+}
+.header2{
+    top: 250px;
+}
+.mainbody{
+    top: 0px;
+}
+.youtubevid{
+    
+}
+.tableau{
+    top: 900px;
+}
+.header3{
+    top: 800px;
+}
+.header a {
+    color: blue; 
+    text-decoration: underline; 
+}
